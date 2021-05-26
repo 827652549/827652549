@@ -1,6 +1,6 @@
 ### 👋欢迎来到**苏一恒**的世界，你也可以叫我**Junking**或者**Macsu**🙋‍♂️
 
-![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=WindrunnerMax&show_icons=true&tdsourcetag=s_pctim_aiomsg)
+![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=827652549&show_icons=true&tdsourcetag=s_pctim_aiomsg)
 
 下面是我的一些小玩意，希望能到你呀～
 
