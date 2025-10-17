@@ -2,7 +2,6 @@
 
 ![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=827652549&show_icons=true&tdsourcetag=s_pctim_aiomsg)
 
-下面是我的一些小玩意，希望能到你呀～
 * [ibag 前端脚手架](https://github.com/827652549/ibag)
 * [HTML5 Canvas的中文系列学习教程，也可作为查阅工具，简单上手](https://github.com/827652549/CanvasStudy)
 * [React矩形选区拖拽库](https://github.com/827652549/react-resizable-rotatable-draggable)
@@ -29,6 +28,9 @@ Here are some ideas to get you started:
 
 -->
 
+<!-- 
 ## 如果你要点赞收藏加关注，欢迎骚扰[我的博客](https://blog.csdn.net/HuoYiHengYuan)和公众号“菜鸟offer”
 
 <a href="https://blog.csdn.net/HuoYiHengYuan" hidden><img src="https://s1.ax1x.com/2020/09/10/wGRcUH.jpg" alt="wGRcUH.jpg" border="0" /></a>
+
+-->
