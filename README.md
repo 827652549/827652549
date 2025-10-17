@@ -1,4 +1,4 @@
-### 👋**苏一恒** & **Mako**🙋‍♂️
+### 👋 **苏一恒** & **Mako**
 
 <!--
 ![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=827652549&show_icons=true&tdsourcetag=s_pctim_aiomsg)
