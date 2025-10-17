@@ -1,6 +1,8 @@
 ### 👋**苏一恒** & **Mako**🙋‍♂️
 
+<!--
 ![Czy's GitHub Stats](https://github-readme-stats.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=827652549&show_icons=true&tdsourcetag=s_pctim_aiomsg)
+-->
 
 * [ibag 前端脚手架](https://github.com/827652549/ibag)
 * [HTML5 Canvas的中文系列学习教程，也可作为查阅工具，简单上手](https://github.com/827652549/CanvasStudy)
