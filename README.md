@@ -5,8 +5,8 @@
 -->
 
 * [ibag 前端脚手架](https://github.com/827652549/ibag)
-* [HTML5 Canvas的中文系列学习教程，也可作为查阅工具，简单上手](https://github.com/827652549/CanvasStudy)
-* [React矩形选区拖拽库](https://github.com/827652549/react-resizable-rotatable-draggable)
+* [《HTML5 Canvas 教程》](https://github.com/827652549/CanvasStudy)
+* [React 矩形选区拖拽库](https://github.com/827652549/react-resizable-rotatable-draggable)
 * [小新快跑：自我介绍小游戏](https://github.com/827652549/timeline-game)
 * [上海XX商厦老虎机](https://github.com/827652549/tiger-game)
 * [canvas2file](https://github.com/827652549/canvas2file)
