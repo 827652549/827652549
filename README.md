@@ -8,7 +8,7 @@
 * [《HTML5 Canvas 教程》](https://github.com/827652549/CanvasStudy)
 * [React 矩形选区拖拽库](https://github.com/827652549/react-resizable-rotatable-draggable)
 * [小新快跑：自我介绍小游戏](https://github.com/827652549/timeline-game)
-* [上海XX商厦老虎机](https://github.com/827652549/tiger-game)(1d从立项到结项)
+* [上海嘉定XX商厦老虎机](https://github.com/827652549/tiger-game)(1d从立项到结项)
 * [canvas2file](https://github.com/827652549/canvas2file)
 * [junking-cli](https://github.com/827652549/junking)
 * [docsify-count（统计字数插件）](https://github.com/827652549/docsify-count)
